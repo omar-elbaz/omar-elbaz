@@ -1,4 +1,4 @@
-#### 👋 Hi! I'm Omar Elbaz, a Computer Science @ Rutgers University
+#### 👋 Hi! I'm Omar Elbaz, a Computer Science Student @ Rutgers University
 
 
 📌 About Me
