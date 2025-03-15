@@ -1,6 +1,4 @@
-### Omar Elbaz
-
-🚀 Computer Science @ Rutgers University
+#### 👋 Hi! I'm Omar Elbaz, a Computer Science @ Rutgers University
 
 💡 I love building tools that impact people's day and move them forward!
 
